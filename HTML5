@@ -1,0 +1,22 @@
+/Exercício 1: Construa uma página HTML falando sobre a sua atividade preferida e, pelo menos, uma imagem da atividade descrita largura 200px, altura 300px/
+<!DOCTYPE html>
+ <head>
+    <title>Atividade preferida</title>
+ </head>
+ <body>
+    <head><p><h1>Musculação</h1></p></head>
+    <section>
+     <title>Descricao</title>
+     A musculação é minha atividade preferida e me mantem saudável.
+     <br>Eu pratico musculação a 2 anos e as mudanças na minha vida foram incríveis.
+      <p><details>
+       <summary>Top exercícios</summary>
+        <ol>
+         <li>Cadeira Extensora</li>
+         <li>Flexão de braço</li>
+         <li>Stiff</li>
+        </ol>      
+        </details><img src="imagem musculacao.jpg" widht="200px" height="300px" title="imagem ilustrativa de musculação ">
+  </section>
+ </body>
+</html>
